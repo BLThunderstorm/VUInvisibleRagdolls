@@ -7,4 +7,6 @@ So, in that ROBLOX game Phantom Forces, and plenty other video games actually, y
 
 ![](https://github.com/Nefomemes/VUInvisibleRagdolls/raw/media/The_PERFECT_SMG_in_phantom_forces.gif)
 
-[Credit for the footage](https://youtu.be/1XHDk2W4BYA)
+
+## Credit
+- [The PF footage](https://youtu.be/1XHDk2W4BYA)
