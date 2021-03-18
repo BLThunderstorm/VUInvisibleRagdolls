@@ -1,8 +1,8 @@
 
 {
     "Name": "VUInvisibleRagdolls",
-    "Description": "",
-    "Version": "0.1.0",
+    "Description": "Make ragdolls invisible in Venice Unleashed. Make it a bit Phantom Forces style.",
+    "Version": "1.0.0",
     "HasVeniceEXT": true,
     "Dependencies": {
         "veniceext": "^1.1.1"
