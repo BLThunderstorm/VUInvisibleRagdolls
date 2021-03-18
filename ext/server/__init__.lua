@@ -1,9 +1,7 @@
 
 Events:Subscribe('Player:Killed', function(player)
-    local rawCorpse = player.corpse or player.soldier;
-    
-    if(rawCorpse != nil) then
-    local corpse = SoldierEntity(rawCorpse);      
-    corpse.forceInvisible = true;
-    not
+    if(player.corpse) then
+    local corpse = SoldierEntity(player.corpse)
+    corpse.forceInvisible = true
+    end
 end)
